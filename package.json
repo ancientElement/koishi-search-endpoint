@@ -1,10 +1,10 @@
 {
-  "name": "demo",
+  "name": "koishi-search-endpoint",
   "version": "1.0.0",
-  "description": "",
+  "description": "搭建自己的Koishi插件市场源叭！",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
