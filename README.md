@@ -8,7 +8,7 @@
   </a>
   </a>
 
-<h3 align="center">koishi-search-endpoint </h3>
+<h3 align="center">koishi-search-endpoint</h3>
 
 <p align="center">
     搭建自己的Koishi插件市场源叭！
@@ -31,9 +31,17 @@ git clone https://github.com/BSTluo/koishi-search-endpoint.git
 git clone https://ghproxy.com/https://github.com/BSTluo/koishi-search-endpoint.git
 // 2. 进入文件夹
 cd koishi-search-endpoint
+
 // 3. 下载依赖包
 npm i
+
 // 4. 运行它！
 node index.js
+
+// 5. 在koishi中将market插件的search.endpoint修改为
+http://127.0.0.1:11451
+
+// 6. 碎了怎么办！把market插件的search.endpoint修改为
+https://registry.koishi.chat/index.json
 
 ```
