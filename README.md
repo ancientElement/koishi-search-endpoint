@@ -1,4 +1,3 @@
-
 <!-- PROJECT LOGO -->
 
 <br />
@@ -22,18 +21,19 @@
 
 当访问本地的11451端口后，会将本地的官方源Json文件输出，从而达到分发官方源的作用
 
-
 ### 使用方法：
 
 ```javascript
 
-// 从github上下载包
+// 1. 从github上下载包
 git clone https://github.com/BSTluo/koishi-search-endpoint.git
-/// 进入文件夹
+// 上面这条失败的话，选择执行下面这条
+git clone https://ghproxy.com/https://github.com/BSTluo/koishi-search-endpoint.git
+// 2. 进入文件夹
 cd koishi-search-endpoint
-// 下载依赖包
+// 3. 下载依赖包
 npm i
-// 运行它！
+// 4. 运行它！
 node index.js
 
 ```
