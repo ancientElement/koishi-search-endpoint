@@ -1,0 +1,63 @@
+{
+    "downloads": {},
+    "dependents": 0,
+    "updated": "",
+    "package": {
+        "name": "",
+        "keywords": [
+            "develop",
+            "self-dev"
+        ],
+        "version": "0.0.1",
+        "description": "",
+        "publisher": {
+            "email": "",
+            "username": ""
+        },
+        "maintainers": [
+            {
+                "email": "",
+                "username": ""
+            }
+        ],
+        "license": "",
+        "date": "",
+        "links": {
+            "homepage": "",
+            "repository": "",
+            "npm": ""
+        },
+        "contributors": []
+    },
+    "score": {
+        "final": 0
+    },
+    "flags": {
+        "insecure": 0
+    },
+    "shortname": "",
+    "verified": false,
+    "manifest": {
+        "public": [
+            "dist"
+        ],
+        "description": {
+            "en": "",
+            "zh": ""
+        },
+        "locales": [],
+        "service": {
+            "required": [],
+            "optional": [],
+            "implements": []
+        }
+    },
+    "insecure": false,
+    "category": "extension",
+    "createdAt": "",
+    "updatedAt": "",
+    "rating": 0,
+    "portable": true,
+    "installSize": 0,
+    "publishSize": 0
+}
