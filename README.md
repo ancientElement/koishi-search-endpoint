@@ -32,7 +32,7 @@
 ]
 ```
 ### 运行
-自行填写端口`PORT`，使用`node index.js`、`npm start`运行
+自行填写端口`PORT`，使用`node index.js`或`npm start`运行
 ### 访问
 使用配置克隆，得到两份配置文件，公用、私用，分别填`search.endpoint`为`默认官方地址`和`http://<ip>:PORT`
 ![alt text](/images/image.png)
