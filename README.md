@@ -35,6 +35,6 @@
 自行填写端口`PORT`，使用`node index.js`、`npm start`运行
 ### 访问
 使用配置克隆，得到两份配置文件，公用、私用，分别填`search.endpoint`为`默认官方地址`和`http://<ip>:PORT`
-![alt text](image.png)
+![alt text](/images/image.png)
 ### 使用
 根据安装需要启用插件配置，请注意切换前需要先停用之前启用的market插件！
